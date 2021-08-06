@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-05T19:22:05 CDT" name="Suite" finished-at="2021-08-05T19:22:18 CDT" duration-ms="13400">
+    <groups>
+    </groups>
+    <test started-at="2021-08-05T19:22:05 CDT" name="Test" finished-at="2021-08-05T19:22:18 CDT" duration-ms="13400">
+      <class name="com.pack.GoogleSearchTest">
+        <test-method signature="test()[pri:0, instance:com.pack.GoogleSearchTest@2b6faea6]" started-at="2021-08-05T19:22:05 CDT" name="test" finished-at="2021-08-05T19:22:18 CDT" duration-ms="13230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.pack.GoogleSearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
